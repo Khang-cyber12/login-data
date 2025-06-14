@@ -1,10 +1,20 @@
 [
   {
-    "username": "admin",
-    "password": "123456"
+    "username": "khangle",
+    "password": "password123",
+    "email": "khangle@example.com",
+    "phone": "0912345678",
+    "gender": "Nam",
+    "dob": "12/05/2005",
+    "avatar": "https://via.placeholder.com/100/40C1A7/FFFFFF?text=KL"
   },
   {
-    "username": "khang",
-    "password": "khang123"
+    "username": "testuser",
+    "password": "testpassword",
+    "email": "test@example.com",
+    "phone": "0987654321",
+    "gender": "Nữ",
+    "dob": "01/01/2000",
+    "avatar": "https://via.placeholder.com/100/77BBEE/FFFFFF?text=TU"
   }
 ]
