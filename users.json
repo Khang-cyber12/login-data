@@ -5,8 +5,17 @@
     "email": "khangle@example.com",
     "phone": "0912345678",
     "gender": "Nam",
-    "dob": "12/05/2005",
-    "avatar": "https://via.placeholder.com/100/40C1A7/FFFFFF?text=KL"
+    "dob": "2005-05-12",
+    "avatar": "https://via.placeholder.com/100/40C1A7/FFFFFF?text=KL",
+    "addresses": [
+      {
+        "id": "addr_001",
+        "name": "Lê Văn Khang",
+        "phone": "0912345678",
+        "address": "66/15E Nhiêu Tứ, Phường 7, Phú Nhuận, TP.HCM",
+        "default": true
+      }
+    ]
   },
   {
     "username": "testuser",
@@ -14,7 +23,8 @@
     "email": "test@example.com",
     "phone": "0987654321",
     "gender": "Nữ",
-    "dob": "01/01/2000",
-    "avatar": "https://via.placeholder.com/100/77BBEE/FFFFFF?text=TU"
+    "dob": "2000-01-01",
+    "avatar": "https://via.placeholder.com/100/77BBEE/FFFFFF?text=TU",
+    "addresses": []
   }
 ]
